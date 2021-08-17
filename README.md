@@ -3,7 +3,7 @@
 
 <h3>  👩‍💻 &nbsp;About Me </h3>
 
-- 📚 &nbsp; Undergraduate Research Student with the project "The Rise of Technological Entrepreneurship in Brazil from the Transformations in the Business Media Language" 
+- 📚 &nbsp; Undergraduate Research Student
 - 🎓 &nbsp; Studying Production Federal University of São Carlos (UFSCar).
 - 📊 &nbsp; Learning more about Data Analysis and Business Intelligence.
 - 🧵 &nbsp; Pursuing Sewing and Cooking as hobbies/side hustles.
